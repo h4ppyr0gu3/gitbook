@@ -6,3 +6,7 @@
 ## Ruby
 
 * [Bundle add](ruby/bundle-add.md)
+
+## AI blog articles
+
+* [Understanding Linux](ai-blog-articles/understanding-linux.md)
