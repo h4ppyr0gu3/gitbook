@@ -6,6 +6,7 @@
 ## Ruby
 
 * [Bundle add](ruby/bundle-add.md)
+* [Rails Console Debugging](ruby/rails-console-debugging.md)
 
 ## AI blog articles
 
