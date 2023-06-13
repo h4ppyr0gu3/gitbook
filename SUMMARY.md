@@ -14,3 +14,7 @@
 * [Understanding Linux](ai-blog-articles/understanding-linux.md)
 * [First Linux Commands](ai-blog-articles/first-linux-commands.md)
 * [A few more Linux Commands](ai-blog-articles/a-few-more-linux-commands.md)
+
+## Frontend
+
+* [Target hover in tailwind](frontend/target-hover-in-tailwind.md)
