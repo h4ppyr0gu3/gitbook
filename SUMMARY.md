@@ -7,6 +7,7 @@
 
 * [Bundle add](ruby/bundle-add.md)
 * [Rails Console Debugging](ruby/rails-console-debugging.md)
+* [Inline Bundling](ruby/inline-bundling.md)
 
 ## AI blog articles
 
